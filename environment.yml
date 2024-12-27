@@ -1,0 +1,11 @@
+name: amrdc-scraper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - requests
+  - tqdm
+  - pip
+  - pip:
+    - ckanapi 
