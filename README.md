@@ -1,5 +1,7 @@
 # AMRDC Data Scraper
 
+[English](README.md) | [简体中文](README_zh.md)
+
 A Python-based tool for downloading quality-controlled datasets from the Arctic and Antarctic Meteorological Research Data Center (AMRDC) using their CKAN API. This tool automatically filters and downloads datasets, organizing them into a structured format for easy access and management.
 
 ## Key Features
